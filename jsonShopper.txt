@@ -1,0 +1,1 @@
+{"fio":"Fedorov Oleg Alekseevich","login":"kuku97","adress":"adressExample","o":[null],"tovar":{"productID":23,"productName":"Kaktus","kolvo":2,"price":200.0},"order":{"konechnayaStoimost":400.0,"data":"01-01-2019","orderComplited":true,"t":[null]}}
